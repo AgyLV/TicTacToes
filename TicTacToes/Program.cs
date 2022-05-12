@@ -68,3 +68,4 @@ for(int i = 2; i < gameBoard.Length +1; i++)
 
 
 
+KOMENTĀRS
